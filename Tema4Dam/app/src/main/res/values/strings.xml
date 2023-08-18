@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tema4Dam</string>
+    <string name="cod_lv">\"Cod: %1$s\"</string>
+    <string name="completeaz_toate_c_mpurile">Completează toate câmpurile!</string>
+    <string name="save">Save</string>
+    <string name="ora_deschidere">Ora deschidere</string>
+    <string name="ora_inchidere">Ora inchidere</string>
+    <string name="unitate">Unitate</string>
+    <string name="judet">Judet</string>
+    <string name="list_centre_sanitare_disponibile">Listă centre sanitare disponibile</string>
+    <string name="adauga_centru_sanitar">Adauga Centru Sanitar</string>
+    <string name="napoi">Înapoi</string>
+    <string name="list_rezultate_teste">Listă rezultate teste</string>
+    <string name="preia_din_http_testele">Preia din http testele!</string>
+    <string name="napoi2">Înapoi</string>
+    <string name="informa_ii_cu_privire_la_rezultatele_testelor_covid_i_centrele_disponibile_de_testare">Informații cu privire la rezultatele testelor covid și centrele disponibile de testare</string>
+    <string name="lista_teste">Lista Teste</string>
+    <string name="lista_centre">Lista Centre!</string>
+    <string name="judet2">Judet</string>
+    <string name="unitate2">Unitate</string>
+    <string name="deschidere">Deschidere</string>
+    <string name="inchidere">Inchidere</string>
+    <string name="cod_test">Cod test</string>
+    <string name="tip_test">Tip test</string>
+    <string name="rezultat_test">Rezultat test</string>
+    <string name="introdus">S a introdus</string>
+    <string name="caractere">Numele trebuie sa aiba cel putin 4 caractere!</string>
+    <string name="caractere2">Judetul trebuie sa aiba cel putin 4 caractere!</string>
+    <string name="ora1"><![CDATA[Ora nu poate fi <7!]]></string>
+    <string name="ora2">Ora pana la 22!</string>
+    <string name="grafic_name">%1$s - %2$d</string>
+    <string name="grafic">Grafic</string>
+</resources>
